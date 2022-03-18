@@ -1,12 +1,12 @@
 {
   "name": "argnote",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "dependencies": {
-    "@argnote/local-client": "^1.0.1"
+    "@argnote/local-client": "^1.1.0"
   },
   "devDependencies": {
-    "@argnote/local-api": "^1.0.1",
+    "@argnote/local-api": "^1.1.0",
     "@types/node": "^17.0.21",
     "commander": "^9.0.0",
     "esbuild": "0.8.26",
