@@ -12,9 +12,7 @@ const App = () => {
       <div>
         <CellList />
       </div>
-      <div>
-        <Footer />
-      </div>
+      <Footer />
     </Provider>
   );
 };
